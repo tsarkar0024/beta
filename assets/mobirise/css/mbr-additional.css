@@ -1375,6 +1375,11 @@ body {
 .cid-qL4e1ZKGr7 {
   background-image: url("../../../assets/images/mbr-1510x1080.jpg");
 }
+.cid-qL4e1ZKGr7 .mbr-text,
+.cid-qL4e1ZKGr7 .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
 .cid-qL4RoQV2W6 {
   padding-top: 0px;
   padding-bottom: 0px;
