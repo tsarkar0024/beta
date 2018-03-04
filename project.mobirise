@@ -38,7 +38,7 @@
     },
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/ani-1.gif",
     "noImageResize": ""
   },
   "pages": {
