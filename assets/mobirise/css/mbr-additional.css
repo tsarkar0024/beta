@@ -1373,7 +1373,7 @@ body {
   display: none;
 }
 .cid-qL4e1ZKGr7 {
-  background-image: url("../../../assets/images/mbr-1382x1080.jpg");
+  background-image: url("../../../assets/images/mbr-2-1620x1080.jpg");
 }
 .cid-qL4e1ZKGr7 .mbr-text,
 .cid-qL4e1ZKGr7 .mbr-section-btn {
@@ -1383,114 +1383,61 @@ body {
 .cid-qL4e1ZKGr7 SPAN {
   color: #cccccc;
 }
-.cid-qL4RoQV2W6 {
-  padding-top: 0px;
+.cid-qL4e1ZKGr7 H1 {
+  text-align: center;
+}
+.cid-qNkqyiXQrb {
+  padding-top: 60px;
   padding-bottom: 0px;
-  background-color: #efefef;
+  background-color: #333c59;
 }
-.cid-qL4RoQV2W6 .card-box {
-  padding: 0 2rem;
-}
-.cid-qL4RoQV2W6 .mbr-section-btn {
-  padding-top: 1rem;
-}
-.cid-qL4RoQV2W6 .mbr-section-btn a {
-  margin-top: 1rem;
-  margin-bottom: 0;
-}
-.cid-qL4RoQV2W6 h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 2rem;
-}
-.cid-qL4RoQV2W6 p {
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 1.5rem;
-}
-.cid-qL4RoQV2W6 .mbr-text {
+.cid-qNkqyiXQrb .mbr-text,
+.cid-qNkqyiXQrb blockquote {
   color: #767676;
-  text-align: center;
 }
-.cid-qL4RoQV2W6 .card-wrapper {
-  height: 100%;
-  padding-bottom: 2rem;
-  background: #ffffff;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
+.cid-qNkqyiXQrb P {
+  color: #ffffff;
 }
-.cid-qL4RoQV2W6 .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-.cid-qL4RoQV2W6 .card-title {
-  text-align: center;
-}
-.cid-qL4u7yXGuF {
+.cid-qNkszJzN0q {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #f9f9f9;
+  background-color: #333c59;
 }
-.cid-qL4u7yXGuF h2 {
-  text-align: left;
-}
-.cid-qL4u7yXGuF h4 {
+.cid-qNkszJzN0q h4 {
   text-align: left;
   font-weight: 500;
 }
-.cid-qL4u7yXGuF p {
+.cid-qNkszJzN0q p {
   color: #767676;
   text-align: left;
+  margin-bottom: 0;
 }
-.cid-qL4u7yXGuF .aside-content {
-  flex-basis: 100%;
+.cid-qNkszJzN0q .card-img {
+  text-align: left;
+  background-color: #333c59;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  padding: 3rem 2.5rem 0 2.5rem;
 }
-.cid-qL4u7yXGuF .block-content {
-  display: -webkit-flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
-  word-break: break-word;
-}
-.cid-qL4u7yXGuF .media {
-  margin: initial;
-  align-items: center;
-}
-.cid-qL4u7yXGuF .mbr-figure {
-  align-self: flex-start;
-  -webkit-align-self: flex-start;
-  -webkit-flex-shrink: 0;
-  flex-shrink: 0;
-}
-.cid-qL4u7yXGuF .card-img {
-  padding-right: 2rem;
-  width: auto;
-}
-.cid-qL4u7yXGuF .card-img span {
+.cid-qNkszJzN0q .card-img span {
   font-size: 72px;
   color: #707070;
 }
-@media (min-width: 992px) {
-  .cid-qL4u7yXGuF .mbr-figure {
-    padding-right: 4rem;
-  }
+.cid-qNkszJzN0q .card-box {
+  padding: 0rem 2.5rem 3rem 2.5rem;
+  background-color: #333c59;
 }
-@media (max-width: 991px) {
-  .cid-qL4u7yXGuF .mbr-figure {
-    padding-right: 0;
-    padding-bottom: 1rem;
-    margin-bottom: 2rem;
-  }
+.cid-qNkszJzN0q P {
+  color: #ffffff;
 }
-@media (max-width: 300px) {
-  .cid-qL4u7yXGuF .card-img span {
-    font-size: 40px !important;
-  }
+.cid-qNkszJzN0q .card-title,
+.cid-qNkszJzN0q .card-img {
+  color: #ffffff;
 }
 .cid-qL4H0eDaxm {
   padding-top: 0px;
   padding-bottom: 30px;
-  background-color: #f9f9f9;
+  background-image: url("../../../assets/images/mbr-6-1620x1080.jpg");
 }
 .cid-qL4H0eDaxm h2 {
   text-align: center;
@@ -1532,7 +1479,7 @@ body {
 .cid-qL4JnaTORb {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/mbr-7-1620x1080.jpg");
 }
 .cid-qL4JnaTORb .mbr-section-subtitle {
   color: #767676;
@@ -1546,7 +1493,7 @@ body {
 .cid-qL4JEQnImT {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #efefef;
+  background-color: #333c59;
 }
 .cid-qL4JEQnImT .google-map {
   height: 25rem;
@@ -1958,8 +1905,8 @@ body {
 .cid-qLrCuFZq39 {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #efefef;
-  background: linear-gradient(#efefef, #ffffff);
+  background-color: #333c59;
+  background: linear-gradient(#333c59, #333c59);
 }
 .cid-qLrCuFZq39 .carousel-control {
   background: #000;
@@ -2160,6 +2107,9 @@ body {
     display: block;
   }
 }
+.cid-qLrCuFZq39 H2 {
+  color: #ffffff;
+}
 .cid-qLmeOFq9NB {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2186,4 +2136,7 @@ body {
 .cid-qLmeOFq9NB .input-group-btn {
   display: block;
   text-align: center;
+}
+.cid-qNkmWloqCt {
+  background-image: url("../../../assets/images/jumbotron.jpg");
 }
