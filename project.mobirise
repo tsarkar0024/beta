@@ -202,6 +202,9 @@
             },
             "P": {
               "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_name": "features13",
